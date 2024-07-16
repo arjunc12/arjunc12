@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![](obi-wan-hello-there.gif)
+![hello there](obi-wan-hello-there.gif)
 
 <!--
 **arjunc12/arjunc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
