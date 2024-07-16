@@ -2,6 +2,10 @@
 
 ![hello there](obi-wan-hello-there.gif)
 
+My name is Arjun Chandrasekhar (he/him/his). I am currently an assistant professor in the Math/CS department at Southwestern University. My teaching interests include computer programming, discrete math, theoretical computer science, and (occasionally) data science. My research focuses on computational biology, specifically the emerging field of biological distributed algorithms. For more information on my teaching and research, check out my [academic website](https://www.arjun-chandrasekhar-teaching.com/).
+
+Please reach out to me if you have questions about my code, or are interested in collaborating!
+
 <!--
 **arjunc12/arjunc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
